@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.aws.lambda;
+package com.thomas.aws.lambda;
 
 import com.amazonaws.services.lambda.runtime.events.APIGatewayProxyResponseEvent;
 import static org.junit.Assert.assertEquals;
